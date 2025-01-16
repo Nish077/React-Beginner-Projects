@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: rgb(247, 247, 247);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(97, 97, 97);
+}
+
+li{
+    list-style: none;
+}
+
+.btns{
+    padding: 8px 15px;
+    margin-right: 6px;
+    background: transparent;
+    border: none;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: #323232;
+    cursor: pointer;
+}
+.btns:hover{
+  background-color: #c8c3c3;
+  color: rgb(71, 68, 68);
+}
